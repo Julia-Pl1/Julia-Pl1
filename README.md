@@ -1,3 +1,6 @@
+Forked repository:
+https://github.com/Julia-Pl1/SymbolicMathematics
+
 ### Check out my website :
   https://julia-pl1.github.io/
 
